@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  user-select: none;
+}
+
+:root {
+  --light: #fffaf7;
+  --lighter: #a3a3a3;
+  --medium: #505050da;
+  --darker: #323232da;
+  --dark: #000000dc;
+  --darkSolid: #232323;
+  --undermenu: #ff9e9edc;
+}
+
+@font-face {
+  font-family: Gabriola;
+  src: url(../public//Gabriola.ttf);
+}
+
+.gabriola {
+  font-family: Gabriola;
+}

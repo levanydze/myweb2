@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "caption": "Icon 1",
+    "icon": "awards/1.png",
+    "key": "idababbbabababbaba",
+    "tags": "landscape"
+  },
+  {
+    "id": 2,
+    "caption": "Icon 2",
+    "icon": "awards/2.png",
+    "key": "idababbbabababbaba",
+    "tags": "favorite"
+  },
+  {
+    "id": 3,
+    "caption": "Icon 3",
+    "icon": "awards/3.png",
+    "key": "idababbbabababbaba"
+  },
+  {
+    "id": 4,
+    "caption": "Icon 4",
+    "icon": "awards/4.png",
+    "key": "idababbbabababbaba"
+  }
+]

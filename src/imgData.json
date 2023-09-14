@@ -1,0 +1,543 @@
+[
+  {
+    "id": "1",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/1-tetnuldi.jpg",
+    "icon": "imagesDataIcon/1-tetnuldi.jpg",
+    "location": "",
+    "tags": ["landscape", "favorite", "nature"]
+  },
+  {
+    "id": "2",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/2-eifel-paris.jpg",
+    "icon": "imagesDataIcon/2-eifel-paris.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", ""]
+  },
+  {
+    "id": "3",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/3-dzveli-tbilisi.jpg",
+    "icon": "imagesDataIcon/3-dzveli-tbilisi.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", "favorite"]
+  },
+  {
+    "id": "4",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/4-gamla-centri.jpg",
+    "icon": "imagesDataIcon/4-gamla-centri.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", ""]
+  },
+  {
+    "id": "5",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/5-green-stone-0.jpg",
+    "icon": "imagesDataIcon/5-green-stone-0.jpg",
+    "location": "",
+    "tags": ["landscape", "", "favorite", "nature"]
+  },
+  {
+    "id": "6",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/6-Gedi.jpg",
+    "icon": "imagesDataIcon/6-Gedi.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", "favorite"]
+  },
+  {
+    "id": "7",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/7-gomismta.jpg",
+    "icon": "imagesDataIcon/7-gomismta.jpg",
+    "location": "",
+    "tags": ["landscape", "nature", "archive"]
+  },
+  {
+    "id": "8",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/8-green-stone-2.jpg",
+    "icon": "imagesDataIcon/8-green-stone-2.jpg",
+    "location": "",
+    "tags": ["landscape", "nature", ""]
+  },
+  {
+    "id": "9",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/9-heroes-square.jpg",
+    "icon": "imagesDataIcon/9-heroes-square.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", ""]
+  },
+  {
+    "id": "10",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/10-Lagodekhi-Green-Stone.jpg",
+    "icon": "imagesDataIcon/10-Lagodekhi-Green-Stone.jpg",
+    "location": "",
+    "tags": ["nature", "landscape", "archive"]
+  },
+  {
+    "id": "11",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/11-kungstradgarden.jpg",
+    "icon": "imagesDataIcon/11-kungstradgarden.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", ""]
+  },
+  {
+    "id": "12",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/12-lagodexi-diagonali.jpg",
+    "icon": "imagesDataIcon/12-lagodexi-diagonali.jpg",
+    "location": "",
+    "tags": ["landscape", "nature", ""]
+  },
+  {
+    "id": "13",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/13-colizeumi.jpg",
+    "icon": "imagesDataIcon/13-colizeumi.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", ""]
+  },
+  {
+    "id": "14",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/14-baltic.jpg",
+    "icon": "imagesDataIcon/14-baltic.jpg",
+    "location": "",
+    "tags": ["nature", "landscape", ""]
+  },
+  {
+    "id": "15",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/15-green-stone-1.jpg",
+    "icon": "imagesDataIcon/15-green-stone-1.jpg",
+    "location": "",
+    "tags": ["nature", "landscape", ""]
+  },
+  {
+    "id": "16",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/16-gamla-qucha.jpg",
+    "icon": "imagesDataIcon/16-gamla-qucha.jpg",
+    "location": "",
+    "tags": ["cityscape", "archive", ""]
+  },
+  {
+    "id": "17",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/17-signagi.jpg",
+    "icon": "imagesDataIcon/17-signagi.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", ""]
+  },
+  {
+    "id": "18",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/18-nortalje-fogg-.jpg",
+    "icon": "imagesDataIcon/18-nortalje-fogg-.jpg",
+    "location": "",
+    "tags": ["nature", "landscape", "archive"]
+  },
+  {
+    "id": "19",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/19-sun-rays-gomismta.jpg",
+    "icon": "imagesDataIcon/19-sun-rays-gomismta.jpg",
+    "location": "",
+    "tags": ["nature", "landscape", "favorite"]
+  },
+  {
+    "id": "20",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/20-tbilisi.jpg",
+    "icon": "imagesDataIcon/20-tbilisi.jpg",
+    "location": "",
+    "tags": ["landscape", "cityscape", ""]
+  },
+  {
+    "id": "21",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/21-svaneti-grublebi.jpg",
+    "icon": "imagesDataIcon/21-svaneti-grublebi.jpg",
+    "location": "",
+    "tags": ["nature", "landscape", "cityscape"]
+  },
+  {
+    "id": "22",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/22-stockholm-bridge.jpg",
+    "icon": "imagesDataIcon/22-stockholm-bridge.jpg",
+    "location": "",
+    "tags": ["archive", " ", ""]
+  },
+  {
+    "id": "23",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/23-ureki.jpg",
+    "icon": "imagesDataIcon/23-ureki.jpg",
+    "location": "",
+    "tags": ["archive", " ", ""]
+  },
+  {
+    "id": "24",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/24-Thesalniki.jpg",
+    "icon": "imagesDataIcon/24-Thesalniki.jpg",
+    "location": "",
+    "tags": ["archive", " ", ""]
+  },
+  {
+    "id": "25",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/25-martvili.jpg",
+    "icon": "imagesDataIcon/25-martvili.jpg",
+    "location": "",
+    "tags": ["archive", " ", ""]
+  },
+
+  {
+    "id": "27",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/27-eifeli.jpg",
+    "icon": "imagesDataIcon/27-eifeli.jpg",
+    "location": "",
+    "tags": ["archive", " ", ""]
+  },
+  {
+    "id": "28",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/28-ciklopebi.jpg",
+    "icon": "imagesDataIcon/28-ciklopebi.jpg",
+    "location": "",
+    "tags": ["landscape", "archive", ""]
+  },
+  {
+    "id": "29",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/29-niniko-gemze.jpg",
+    "icon": "imagesDataIcon/29-niniko-gemze.jpg",
+    "location": "",
+    "tags": ["portrait", "favorite", ""]
+  },
+  {
+    "id": "30",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/30-niako.jpg",
+    "icon": "imagesDataIcon/30-niako.jpg",
+    "location": "",
+    "tags": ["archive", " ", ""]
+  },
+  {
+    "id": "31",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/31-ekuna.jpg",
+    "icon": "imagesDataIcon/31-ekuna.jpg",
+    "location": "",
+    "tags": ["portrait", " ", ""]
+  },
+  {
+    "id": "32",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/32-niniko-christmas.jpg",
+    "icon": "imagesDataIcon/32-niniko-christmas.jpg",
+    "location": "",
+    "tags": ["archive", " ", ""]
+  },
+  {
+    "id": "33",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/33-erika.jpg",
+    "icon": "imagesDataIcon/33-erika.jpg",
+    "location": "",
+    "tags": ["portrait", " ", ""]
+  },
+  {
+    "id": "34",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/34-irakli.jpg",
+    "icon": "imagesDataIcon/34-irakli.jpg",
+    "location": "",
+    "tags": ["portrait", "archive", ""]
+  },
+  {
+    "id": "35",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/35-niniko-santeli.jpg",
+    "icon": "imagesDataIcon/35-niniko-santeli.jpg",
+    "location": "",
+    "tags": ["portrait", " ", ""]
+  },
+  {
+    "id": "36",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/36-nino-drotningatan.jpg",
+    "icon": "imagesDataIcon/36-nino-drotningatan.jpg",
+    "location": "",
+    "tags": ["", "archive", ""]
+  },
+  {
+    "id": "37",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/37-erika-gamla.jpg",
+    "icon": "imagesDataIcon/37-erika-gamla.jpg",
+    "location": "",
+    "tags": ["portrait", "favorite", ""]
+  },
+  {
+    "id": "38",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/38-Anna-mkerdi.jpg",
+    "icon": "imagesDataIcon/38-Anna-mkerdi.jpg",
+    "location": "",
+    "tags": ["archive", " ", ""]
+  },
+  {
+    "id": "39",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/39-maia.jpg",
+    "icon": "imagesDataIcon/39-maia.jpg",
+    "location": "",
+    "tags": ["", "archive", ""]
+  },
+  {
+    "id": "40",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/40-atoneli.jpg",
+    "icon": "imagesDataIcon/40-atoneli.jpg",
+    "location": "",
+    "tags": ["portrait", " ", ""]
+  },
+  {
+    "id": "41",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/41-marina-shishveli.jpg",
+    "icon": "imagesDataIcon/41-marina-shishveli.jpg",
+    "location": "",
+    "tags": ["portrait", " ", ""]
+  },
+  {
+    "id": "42",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/42-marina-zurgit.jpg",
+    "icon": "imagesDataIcon/42-marina-zurgit.jpg",
+    "location": "",
+    "tags": ["portrait", " ", ""]
+  },
+  {
+    "id": "43",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/43-alex-barshi-gverdulad.jpg",
+    "icon": "imagesDataIcon/43-alex-barshi-gverdulad.jpg",
+    "location": "",
+    "tags": ["portrait", "archive", ""]
+  },
+  {
+    "id": "44",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/44-alex-barshi.jpg",
+    "icon": "imagesDataIcon/44-alex-barshi.jpg",
+    "location": "",
+    "tags": ["portrait", "archive", ""]
+  },
+  {
+    "id": "45",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/45-alex-gamla.jpg",
+    "icon": "imagesDataIcon/45-alex-gamla.jpg",
+    "location": "",
+    "tags": ["portrait", " ", ""]
+  },
+  {
+    "id": "46",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/46-alex-new.jpg",
+    "icon": "imagesDataIcon/46-alex-new.jpg",
+    "location": "",
+    "tags": ["portrait", " ", ""]
+  },
+  {
+    "id": "47",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/47-alex-training.jpg",
+    "icon": "imagesDataIcon/47-alex-training.jpg",
+    "location": "",
+    "tags": ["portrait", "", ""]
+  },
+  {
+    "id": "48",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/48-alex-gvinis-chiqit.jpg",
+    "icon": "imagesDataIcon/48-alex-gvinis-chiqit.jpg",
+    "location": "",
+    "tags": ["portrait", "archive", ""]
+  },
+  {
+    "id": "49",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/49-baxmaro.jpg",
+    "icon": "imagesDataIcon/49-baxmaro.jpg",
+    "location": "",
+    "tags": ["landscape", "nature", "cityscape"]
+  },
+  {
+    "id": "50",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/50-becho.jpg",
+    "icon": "imagesDataIcon/50-becho.jpg",
+    "location": "",
+    "tags": ["landscape", "nature", ""]
+  },
+  {
+    "id": "51",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/51-gamla-burtit.jpg",
+    "icon": "imagesDataIcon/51-gamla-burtit.jpg",
+    "location": "",
+    "tags": ["cityscape", "landscape", ""]
+  },
+  {
+    "id": "52",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/52-borjomi.jpg",
+    "icon": "imagesDataIcon/52-borjomi.jpg",
+    "location": "",
+    "tags": ["nature", "landscape", ""]
+  },
+  {
+    "id": "53",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/53-marina-kibestan.jpg",
+    "icon": "imagesDataIcon/53-marina-kibestan.jpg",
+    "location": "",
+    "tags": ["archive", "", ""]
+  },
+  {
+    "id": "54",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/54-maris-daqali.jpg",
+    "icon": "imagesDataIcon/54-maris-daqali.jpg",
+    "location": "",
+    "tags": ["portrait", "favorite", ""]
+  },
+  {
+    "id": "55",
+    "title": "",
+    "category": "",
+    "description": "",
+    "image": "imagesData/55-mtawminda-kibe.jpg",
+    "icon": "imagesDataIcon/55-mtawminda-kibe.jpg",
+    "location": "",
+    "tags": ["portrait", "", ""]
+  }
+]
